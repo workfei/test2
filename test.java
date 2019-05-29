@@ -1,6 +1,14 @@
 class HelloWorld 
-{    
- /**     * ÕâÊÇÒ»¸ö main ·½·¨     */   
+{
+    
+ /**
+     * è¿™æ˜¯ä¸€ä¸ª main æ–¹æ³•123
+     */
+   
  public static void main(String [] args) 
-{        // Êä³ö´ËÏûÏ¢      System.out.println("»¶Ó­À´µ½ Java ÊÀ½ç");    }
-}
+{
+        // è¾“å‡ºæ­¤æ¶ˆæ¯
+      System.out.println("æ¬¢è¿æ¥åˆ° Java ä¸–ç•Œ");
+    }
+
+}
